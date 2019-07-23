@@ -1,5 +1,3 @@
-.img-post {
-    width: 20% !important;
-    position: relative;
-    display: block;
+.post-item-horizontal .col-sm-5 {
+    width: 18.6667% !important;
 }
