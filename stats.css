@@ -1,3 +1,6 @@
 .post-item-horizontal .col-sm-5 {
     width: 18.6667% !important;
 }
+.post-item-horizontal .post-item-image {
+    height: 0px !important;
+}
